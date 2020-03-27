@@ -1,0 +1,21 @@
+##day 01
+base knowledge of thread
+a. OnlyMain
+b. StartAndRun--difference between start() and run()
+c. UseThreadLocal-- how to use thread local
+d. NewThread -- how to create a thread
+e. EndRunnable -- how to end a runnable thread
+f. EndThread -- how to end a thread
+g. HasInterruptException -- the method that throws InterruptedException
+h. syn -- synchronize key word
+i. vola -- volatile key word
+j. wn - wait and notify/notifyAll
+k. pool-- wait timeout
+l. UseJoin -- use the join()
+
+yield() -- will not release lock
+sleep() -- will not release lock
+wait()  -- get the lock first, then release lock, get the lock again after return from wait() method
+notify() -- get the lock first, then release lock
+
+##day 02
