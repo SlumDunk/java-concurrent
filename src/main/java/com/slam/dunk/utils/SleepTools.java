@@ -1,4 +1,4 @@
-package com.slam.dunk.tools;
+package com.slam.dunk.utils;
 
 import java.util.concurrent.TimeUnit;
 

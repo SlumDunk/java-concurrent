@@ -1,4 +1,4 @@
-package com.slam.dunk.day01.pool;
+package com.slam.dunk.day02.tools.semaphore;
 
 import com.slam.dunk.utils.SleepTools;
 

@@ -1,6 +1,6 @@
 package com.slam.dunk.day01.vola;
 
-import com.slam.dunk.tools.SleepTools;
+import com.slam.dunk.utils.SleepTools;
 
 /**
  * @Author: zerongliu
